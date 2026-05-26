@@ -1,6 +1,6 @@
 # ZJOOC 智能刷课助手 v2.0
 
-浙学网（zjooc.cn）课程视频自动播放 Tampermonkey 用户脚本。
+浙学网（zjooc.cn）课程视频自动播放用户脚本。
 
 ## 功能
 
